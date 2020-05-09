@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "986083708540",
+    "firebase_url": "https://flash-chat-5516b.firebaseio.com",
+    "project_id": "flash-chat-5516b",
+    "storage_bucket": "flash-chat-5516b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986083708540:android:48c6ed3a5af5b724f783f9",
+        "android_client_info": {
+          "package_name": "co.cheechan.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986083708540-nujtcck3l7af9h45kjb1gr3nlt7an5dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANcAXVFnE7DVaZtxTRu9ckIAP3GAebyRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986083708540-nujtcck3l7af9h45kjb1gr3nlt7an5dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
